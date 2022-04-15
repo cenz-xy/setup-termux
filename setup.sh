@@ -1,4 +1,5 @@
 # Update & Upgrade termux
+cp .termux/colors.properties ~/.termux/colors.properties
 pkg update && pkg upgrade -y
 
 # Install package
