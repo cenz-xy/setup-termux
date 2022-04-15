@@ -1,0 +1,10 @@
+curl
+gh
+git
+grep
+neovim
+nodejs
+ruby
+rust
+yarn
+zsh
