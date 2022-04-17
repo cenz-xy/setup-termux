@@ -1,10 +1,13 @@
 curl
+dpkg
 gh
 git
 grep
-neovim
+gzip
 nodejs
-ruby
-rust
+pkg-config
+python
+sed
+tar
+unzip
 yarn
-zsh
